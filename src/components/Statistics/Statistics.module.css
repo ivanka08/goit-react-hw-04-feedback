@@ -1,0 +1,10 @@
+.item {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 14px;
+    width: 240px;
+    margin-top: 20px;
+}
+
+
